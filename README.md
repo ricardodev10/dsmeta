@@ -2,7 +2,7 @@
 # Spring React Week
 
 Sales listing and SMS notification 
-
+Deploy: (https://dsmeta-ricardodev10.netlify.app/)
 
 ## Demonstration
 
