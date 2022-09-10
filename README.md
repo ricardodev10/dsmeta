@@ -7,7 +7,7 @@ Sales listing and SMS notification
 ## Demonstration
 
 <p align="center">
-<img src="assets/dsmeta.gif">
+<img src="./frontend/src/assets/dsmeta.gif">
 </p>
 
 
