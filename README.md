@@ -3,46 +3,55 @@
 
 Sales listing and SMS notification
 
-## Deploy
 
-https://dsmeta-ricardodev10.netlify.app/
-
-## Demonstration
+## 💁🏻‍♂️ Demonstration
 
 <p align="center">
 <img src="./frontend/src/assets/dsmeta.gif">
 </p>
 
 
-## Learnings
+## ▶️ Deploy
+
+https://dsmeta-ricardodev10.netlify.app/
+
+
+## 📚 Learnings
 
 Project that gave me a better understanding of ReactJS and SpringBoot library, I use Postman, Heroku and H2 database.
 
 
-## Functionalities
+## ♻️ Functionalities
 
 - Sales listing
 - SMS notification
 - Responsive
 
 
-## Stack used
+## 🛠 Stack used
 
-**Front-end:** React, TypeScript.
+> Front-end: 
 
-**Back-end:** Spring, Node, SQL.
+- React
+- TypeScript
+
+> Back-end: 
+
+- Spring
+- Node
+- SQL
 
 
-## Improvements
+## 📈 Improvements
 
 Refactorings, performance and accessibility.
 
 
-## Feedback
+## 🙂 Feedback
 
 If you have any feedback, please send it to me at ricardodev10@yahoo.com
 
 
-## Author
+## 💛 Author
 
-- [@ricardodev10](https://www.github.com/ricardodev10)
+- [Ricardo Junior](https://www.linkedin.com/in/ricardodev10/)
